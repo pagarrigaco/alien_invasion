@@ -5,5 +5,5 @@
   <p>
     Programació des de zero d'un joc basat en Space invader per practicar la llibreria Pygames
   </p>
-  <img src="https://en.wikipedia.org/wiki/Space_Invaders#/media/File:Space_Invaders_flyer,_1978.jpg"/>
+  <img src="https://anayamultimedia.es/imagenes/libros/grande/9788441549241-curso-intensivo-de-python-tercera-edicion.jpg"/>
 </html>
